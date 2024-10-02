@@ -21,4 +21,4 @@ This is a sample e-commerce website created for learning web analytics and measu
 2. Enable GitHub Pages in your repository settings
 3. Your website will be live at `https://yourusername.github.io/sample-website/`
 
-Feel free to modify and expand upon this template to suit your learning needs!
+
